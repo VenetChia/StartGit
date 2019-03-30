@@ -11,8 +11,7 @@ namespace StartGit
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, world");
-            Console.WriteLine("Hello, world");
-            Console.WriteLine("Hello, world");
+            Console.WriteLine("Hello, my friend");
             Console.WriteLine("Hello, world");
         }
     }
