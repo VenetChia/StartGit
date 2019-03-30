@@ -13,6 +13,8 @@ namespace StartGit
             Console.WriteLine("Hello, world");
             Console.WriteLine("Hello, my friend");
             Console.WriteLine("Hello, world");
+            Console.WriteLine("Don't stop!");
+
         }
     }
 }
